@@ -6,8 +6,6 @@
 
 - 🌱 I’m currently learning **Python**
 
-- 📝 I regularly write articles on [technophilee.weebly.com](technophilee.weebly.com)
-
 - 📫 Reach me at **suhasmartha@gmail.com**
 
 - ⚡ Fun fact : **I love to Code**
